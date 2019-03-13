@@ -2,4 +2,7 @@
 just for r&amp;d
 
 ## About
-Just a test....
+Git playground
+
+### What next
+Commit&Merge&Push
