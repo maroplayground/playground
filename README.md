@@ -6,3 +6,6 @@ Git playground
 
 ### What next
 Commit&Merge&Push
+
+### Another one
+New change
