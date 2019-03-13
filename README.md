@@ -9,3 +9,6 @@ Commit&Merge&Push
 
 ### Another one
 New change
+
+### Next change
+New change
