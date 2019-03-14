@@ -11,4 +11,8 @@ Commit&Merge&Push
 New change
 
 ### Next change
+
 New change
+
+### Another chapter in the story
+Something new
