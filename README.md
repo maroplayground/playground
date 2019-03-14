@@ -14,8 +14,21 @@ New change
 
 New change
 
+<<<<<<< HEAD
 ### Another chapter in the story
 Something new
 
 
 ## And another change
+Changing
+
+
+### Conflict
+
+Some conflict
+
+=======
+
+
+
+>>>>>>> features/new-cr
