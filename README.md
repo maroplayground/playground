@@ -9,3 +9,5 @@ Commit&Merge&Push
 
 ### Another one
 New change
+
+#### Conflicting change
