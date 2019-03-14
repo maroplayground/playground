@@ -14,7 +14,6 @@ New change
 
 New change
 
-<<<<<<< HEAD
 ### Another chapter in the story
 Something new
 
@@ -27,8 +26,7 @@ Changing
 
 Some conflict
 
-=======
+### Do it
 
+No conflict
 
-
->>>>>>> features/new-cr
